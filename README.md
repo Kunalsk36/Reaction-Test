@@ -4,6 +4,12 @@ A simple, fun browser game to measure how fast you can react.
 
 A randomly colored shape (a circle or a square) appears on the screen after a short, random delay. Click it as fast as you can and the game shows your reaction time in seconds. A new shape pops up right away, so you can keep going and beat your own score.
 
+### 🎮 Play it live
+
+👉 **[Try the Reaction Test here →](https://kunalsk36.github.io/Reaction-Test/)**
+
+Or open `reactionTest.html` in any modern browser to play it locally.
+
 ---
 
 ## ✨ Features
@@ -16,6 +22,10 @@ A randomly colored shape (a circle or a square) appears on the screen after a sh
 - Zero dependencies, works offline
 
 ## 🎮 How to Play
+
+**Online:** open the live demo at <https://kunalsk36.github.io/Reaction-Test/>
+
+**Locally:**
 
 1. Open `reactionTest.html` in any modern browser.
 2. Wait for a shape to appear.
@@ -52,6 +62,8 @@ Reaction Test Game/
 
 ## 🚀 Run It
 
+**Play online:** <https://kunalsk36.github.io/Reaction-Test/>
+
 No installation needed. Just double-click the HTML file, or serve it locally:
 
 ```bash
@@ -74,3 +86,5 @@ Then visit <http://localhost:8000/reactionTest.html>.
 ## 👤 Author
 
 Made with ❤️ by Kunal
+
+🔗 Live demo: <https://kunalsk36.github.io/Reaction-Test/>
