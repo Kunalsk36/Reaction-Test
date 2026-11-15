@@ -1,0 +1,26 @@
+* {
+    margin: 0;
+    padding: 0;
+    font-family: "Times New Roman", Times, serif;
+  }
+
+  body {
+    background-color: rgba(255, 166, 0, 0.336);
+  }
+
+  #shapes {
+    width: 250px;
+    height: 250px;
+    background-color: rgb(0, 255, 76);
+    position: relative;
+    display: none;
+  }
+
+  #timeDisplay {
+    font-weight: bold;
+  }
+
+  .heading {
+    display: flex;
+    justify-content: center;
+  }
