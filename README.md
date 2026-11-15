@@ -8,7 +8,7 @@ A randomly colored shape (a circle or a square) appears on the screen after a sh
 
 👉 **[Try the Reaction Test here →](https://kunalsk36.github.io/Reaction-Test/)**
 
-Or open `reactionTest.html` in any modern browser to play it locally.
+Or open `index.html` in any modern browser to play it locally.
 
 ---
 
@@ -27,7 +27,7 @@ Or open `reactionTest.html` in any modern browser to play it locally.
 
 **Locally:**
 
-1. Open `reactionTest.html` in any modern browser.
+1. Open `index.html` in any modern browser.
 2. Wait for a shape to appear.
 3. Click it as fast as you can.
 4. Check your time in the "Your time is" line.
@@ -48,10 +48,10 @@ Or open `reactionTest.html` in any modern browser to play it locally.
 
 ```
 Reaction Test Game/
-├── reactionTest.html   # Page markup, links CSS + JS
-├── reactionTest.css    # Layout and styling
-├── reactionTest.js     # Game logic (delay, shape, timing)
-└── README.md           # You are here
+├── index.html         # Page markup, links CSS + JS
+├── reactionTest.css   # Layout and styling
+├── reactionTest.js    # Game logic (delay, shape, timing)
+└── README.md          # You are here
 ```
 
 ## ⚙️ How It Works
@@ -68,13 +68,13 @@ No installation needed. Just double-click the HTML file, or serve it locally:
 
 ```bash
 # Option 1: open directly
-start reactionTest.html
+start index.html
 
 # Option 2: with a simple local server
 python -m http.server 8000
 ```
 
-Then visit <http://localhost:8000/reactionTest.html>.
+Then visit <http://localhost:8000/> (or <http://localhost:8000/index.html>).
 
 ## 🛠️ Customization
 
